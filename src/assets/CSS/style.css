@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+.font-noto{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.font-nekro{
+    font-family: 'Nerko One', cursive;
+}
+
+.h-01{
+    height: 0.15rem;
+}
+
+.min-h-12{
+    min-height: 7rem;
+}
